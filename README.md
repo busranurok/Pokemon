@@ -3,25 +3,23 @@ Pokemon
 
 (It is the requested case for a recruitment.)
 
-<a href="https://apps.apple.com/tr/app/mars-explorer/id1667968298?l=tr" target="_blank"><img src="https://user-images.githubusercontent.com/49414644/215282404-d930a425-165c-435a-b2ac-a97bddfeb162.png" alt="Download on the App Store" height="90"/></a>
+<a href="" target="_blank"><img src="https://user-images.githubusercontent.com/49414644/215282404-d930a425-165c-435a-b2ac-a97bddfeb162.png" alt="Download on the App Store" height="90"/></a>
 
 ## 👉 Follow This List
 
 - [🎯 Project Description](#-project-description)
 - [🔧 How to Setup](#-how-to-setup)
-- [ℹ️ How to Use](#-how-to-use)
 
 ## 🎯 Project Description 
-> Managing e2e leasing process for living areas. With this project , property owners, estate agents and manager companies can manage their properties effectively and easily.
+> Getting basic informations about Pokemos with using public PokemonAPI.
 
 #### _With this project:_
-- Property owners can create their property,leasing contract and track incomings
-- Manager companies can manage their authorized properties and creating reports
-- Estate agents can manage their portfolios and create advertisement to common web apps like(sahibindan,zingat etc)
-- Renters can track their payment plan and store document,photos and pay monthly leasing price with credit card
+- User can list Pokemons
+- User can see detail about specific Pokemon(abilities)
 
 ### Tech Stack
 - [Swift] - User interface
+- [UIKit] - User interface
 - [Storyboard] -
 - [Alamofire] - Communicating between server and client
 - [VIPER] - Design Pattern
@@ -29,13 +27,14 @@ Pokemon
 - [Json] - 
 
 ### Upcoming Features
--
+- UI test.
+- Better Design.
+- Styling definitions for textviews and buttons etc.
 
 ## 🔧 How to Setup
-Just download and run with Xcode
-
-## ℹ️ How to Use 
-
+Just download and run with Xcode.
+### Compatibility
+>  macOS 11.0 or top version and Requires a Mac with an Apple M1 or higher chip.
 
 ### 📷 Photo
 <p align="center">
@@ -48,3 +47,9 @@ Just download and run with Xcode
 
 
 ## [🔝 Back to Top](#-follow-this-list) 
+[Swift]: <https://developer.apple.com/swift/>
+[UIKit]: <https://developer.apple.com/documentation/uikit>
+[Storyboard]: <>
+[Alamofire]: <https://github.com/Alamofire/Alamofire>
+[VIPER]: <https://medium.com/@smalam119/viper-design-pattern-for-ios-application-development-7a9703902af6>
+[Kingfisher]: <https://github.com/onevcat/Kingfisher>
