@@ -24,7 +24,6 @@ Pokemon
 - [Alamofire] - Communicating between server and client
 - [VIPER] - Design Pattern
 - [Kingfisher] - It downloads the photo in the link and presses the imageView.
-- [Json] - 
 
 ### Upcoming Features
 - UI test.
