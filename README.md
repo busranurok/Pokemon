@@ -4,7 +4,7 @@ Pokemon
 (It is the requested case for a recruitment.)
 
 > 🔗 Proje  Power Point: (This is a power point presentation of the project.)
-[POKEMON IOS APP.pptx](https://github.com/busranurok/Pokemon/files/11063111/POKEMON.IOS.APP.pptx)
+> [POKEMON IOS APP.pptx](https://github.com/busranurok/Pokemon/files/11063111/POKEMON.IOS.APP.pptx)
 
 <a href="" target="_blank"><img src="https://user-images.githubusercontent.com/49414644/215282404-d930a425-165c-435a-b2ac-a97bddfeb162.png" alt="Download on the App Store" height="90"/></a>
 
@@ -37,6 +37,8 @@ Pokemon
 Just download and run with Xcode.
 ### Compatibility
 >  macOS 11.0 or top version and Requires a Mac with an Apple M1 or higher chip.
+>  Minimum Deployments iOS : 16.0
+>  Supported Destinations : iPhone
 
 ### 📷 Photo
 <p align="center">
@@ -46,7 +48,7 @@ Just download and run with Xcode.
 </p>
 
 ### 🎥 Video
-<video src="https://user-images.githubusercontent.com/49414644/227548840-34db8d29-7846-4d10-8c66-b65952cbff7d.mp4"></video>
+<video src="https://user-images.githubusercontent.com/49414644/227553543-96b57310-e05c-46cf-8f88-97e7e63b6d2e.mp4"></video>
 
 ## [🔝 Back to Top](#-follow-this-list) 
 [Swift]: <https://developer.apple.com/swift/>
